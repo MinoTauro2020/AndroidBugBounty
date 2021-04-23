@@ -1,0 +1,4 @@
+cat MinoT_APK_Sentive.sh 
+#!/usr/bin/bash
+
+apktool d $1 | grep -EHirn "Authorization|administrators|developers|users|accesskey|admin|aes|api_key|apikey|checkClientTrusted|crypt|http:|https:|password|pinning|secret|SHA256|SharedPreferences|superuser|token|X509TrustManager"
