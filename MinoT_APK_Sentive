@@ -41,6 +41,8 @@ https://medium.com/bugbountyhunting/bug-bounty-hunting-tips-2-target-their-mobil
 https://github.com/B3nac/Android-Reports-and-Resources
 https://sniferl4bs.com/2021/03/pentesting-mobile-101-introducci%C3%B3n-a-deep-links/
 https://www.hackingarticles.in/android-pentest-deep-link-exploitation/
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting
+
 
 .\adv.exe devices
 .\adv push 1.pak "path"
