@@ -34,6 +34,12 @@ http://
 https://
 function
 root
+BROWSABLE
+someapp
+getCreds
+pathPrefix
+host="user"
+scheme="pscp"
 
 https://github.com/streaak/keyhacks
 https://www.youtube.com/watch?v=R-271R3zIdw
