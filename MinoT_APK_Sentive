@@ -5,6 +5,7 @@ apktool d $1 | grep -EHirn "Authorization|administrators|developers|users|access
 
 apktool d l.apk -o l;grep -Phro "(https?://)[\w\.-/]+[\"'\`]" uberApk/ | sed 's#"##g' | anew | grep -v "w3\|android\|github\|http://schemas.android\|google\|http://goo.gl"
 
+ jadx-gui
 
 Developer
 Users
